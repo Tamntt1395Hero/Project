@@ -1,2 +1,2 @@
-# Project
-Project for practice
+# MyProject
+THIS REPO SHOWS MY PROJECTS
